@@ -1,0 +1,36 @@
+lien des addons
+
+MyKeyMouse -- https://raw.githubusercontent.com/Pullusb/MyKeyMouse/master/MyKeyMouse.py
+
+dev tools -- https://raw.githubusercontent.com/Pullusb/devTools/master/SB_devTools.py
+
+Tap Tap swap -- https://raw.githubusercontent.com/Pullusb/TapTapSwap/master/TapTapSwap.py
+
+Active swap -- https://raw.githubusercontent.com/Pullusb/SB_ActiveSwap/master/SB_Active_swap.py
+
+Path action -- https://raw.githubusercontent.com/Pullusb/SB_Path-Actions/master/SB_path_actions.py
+
+Curve rig -- https://raw.githubusercontent.com/Pullusb/curveRig/master/curveRig.py
+
+Auto blueprint -- https://raw.githubusercontent.com/Pullusb/SB_auto-blueprint/master/AutoBlueprint.py
+
+Bone utils -- https://raw.githubusercontent.com/Pullusb/BoneUtils/master/boneUtils.py
+
+Quick rename menu -- https://raw.githubusercontent.com/Pullusb/quick_rename_menu/master/quick_rename_menu.py
+
+Skin parent -- https://raw.githubusercontent.com/Pullusb/SkinParent/master/skinParent.py
+
+
+Snippets library -- https://github.com/Pullusb/snippetsLibrary/archive/master.zip
+
+Scene settings -- https://github.com/Pullusb/SceneSettings/archive/master.zip
+
+#Samutility -- https://github.com/Pullusb/samutility/archive/master.zip
+
+#Imgs-2-video -- https://raw.githubusercontent.com/Pullusb/SB_imgs2video/master/SB_imgs2video.py
+
+#Render layer folders -- https://raw.githubusercontent.com/Pullusb/renderLayerFolders/master/render_layer_folders.py
+
+#MatNameFromColor -- https://raw.githubusercontent.com/Pullusb/MatNameFromColor/master/MatNameFromColor.py
+
+#reloadUI -- https://raw.githubusercontent.com/Pullusb/reloadUI/master/reloadUI.py

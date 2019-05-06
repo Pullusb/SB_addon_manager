@@ -1,0 +1,46 @@
+lien des addons 2.7
+
+reloadUI -- https://raw.githubusercontent.com/Pullusb/reloadUI/master/reloadUI.py
+
+MatNameFromColor -- https://raw.githubusercontent.com/Pullusb/MatNameFromColor/master/MatNameFromColor.py
+
+MyKeyMouse -- https://raw.githubusercontent.com/Pullusb/MyKeyMouse/master/MyKeyMouse_279.py
+
+dev tools -- https://raw.githubusercontent.com/Pullusb/devTools/master/SB_devTools_279.py
+
+Tap Tap swap -- https://raw.githubusercontent.com/Pullusb/TapTapSwap/master/TapTapSwap_279.py
+
+Active swap -- https://raw.githubusercontent.com/Pullusb/SB_ActiveSwap/master/SB_Active_swap_279.py
+
+Path action -- https://raw.githubusercontent.com/Pullusb/SB_Path-Actions/master/SB_path_actions_279.py
+
+Curve rig -- https://raw.githubusercontent.com/Pullusb/curveRig/master/curveRig_279.py
+
+Auto blueprint -- https://raw.githubusercontent.com/Pullusb/SB_auto-blueprint/master/AutoBlueprint.py
+
+Bone utils -- https://raw.githubusercontent.com/Pullusb/BoneUtils/master/boneUtils.py
+
+Imgs-2-video -- https://raw.githubusercontent.com/Pullusb/SB_imgs2video/master/SB_imgs2video.py
+
+Render layer folders -- https://raw.githubusercontent.com/Pullusb/renderLayerFolders/master/render_layer_folders.py
+
+Quick rename menu -- https://raw.githubusercontent.com/Pullusb/quick_rename_menu/master/quick_rename_menu.py
+
+Skin parent -- https://raw.githubusercontent.com/Pullusb/SkinParent/master/skinParent.py
+
+Apply Shapekeyed modifier -- https://raw.githubusercontent.com/Pullusb/Apply_Shapekeyed_Modifiers/master/applyShapekeyedModifier.py
+
+1234Select -- https://raw.githubusercontent.com/Pullusb/SB_1234Select/master/SB_1234Select.py
+
+
+Snippets library -- https://github.com/Pullusb/snippetsLibrary279
+/archive/master.zip
+
+Scene settings -- https://github.com/Pullusb/SceneSettings/archive/master.zip
+
+Samutility -- https://github.com/Pullusb/samutility/archive/master.zip
+
+
+Auto-cursor -- https://raw.githubusercontent.com/Pullusb/Auto-cursor/master/auto_cursor.py
+
+GPclipboard -- https://raw.githubusercontent.com/Pullusb/GPclipboard/master/GPclipboard.py
