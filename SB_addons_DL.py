@@ -32,6 +32,7 @@ def gen_filename(url):
         return None
 
 def download_addons_from_list(urlist):
+    # Get addon list (maybe later use a yaml or json to keep informations)
     ads = []
     with open(urlist, 'r') as fd:
         for line in fd:
@@ -40,6 +41,7 @@ def download_addons_from_list(urlist):
                 addon=line.split('--')
                 print(addon[0].strip(),'>',addon[1].strip())
                 ads.append([addon[0].strip(),addon[1].strip()])
+
 
     if ads:
         from urllib.request import urlretrieve
