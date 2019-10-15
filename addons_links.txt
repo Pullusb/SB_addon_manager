@@ -20,6 +20,9 @@ Quick rename menu -- https://raw.githubusercontent.com/Pullusb/quick_rename_menu
 
 Skin parent -- https://raw.githubusercontent.com/Pullusb/SkinParent/master/skinParent.py
 
+Brush fill -- https://github.com/Pullusb/GP_brush_fill/archive/master.zip
+
+
 
 Snippets library -- https://github.com/Pullusb/snippetsLibrary/archive/master.zip
 
