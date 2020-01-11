@@ -1,0 +1,150 @@
+{
+    "addons": [
+        {
+            "name": "MyKeyMouse",
+            "url": "https://raw.githubusercontent.com/Pullusb/MyKeyMouse/master/MyKeyMouse.py",
+            "description": "Map shortcuts on mouse button 4 and 5 for mouse with additional buttons.",
+            "sources": "https://github.com/Pullusb/MyKeyMouse",
+            "demo": ""
+        },
+        {
+            "name": "Real scale references",
+            "url": "https://github.com/Pullusb/real_scale_references/archive/master.zip",
+            "description": "Link references models at real world scale to help modelling",
+            "sources": "https://github.com/Pullusb/real_scale_references",
+            "demo": "https://youtu.be/-73m53QNolA"
+        },
+        {
+            "name": "Select by cam frame",
+            "url": "https://raw.githubusercontent.com/Pullusb/selectByCamFrame/master/selectByCamFrame.py",
+            "description": "Select objects according to camera frame",
+            "sources": "https://github.com/Pullusb/selectByCamFrame",
+            "demo": ""
+        },
+        {
+            "name": "Imgs-2-video",
+            "url": "https://raw.githubusercontent.com/Pullusb/SB_imgs2video/master/SB_imgs2video.py",
+            "description": "Create a video from images sequence in one click",
+            "sources": "https://github.com/Pullusb/SB_imgs2video",
+            "demo": "https://youtu.be/R_W3Uh3KVGM"
+        },
+        {
+            "name": "Auto Mat",
+            "url": "https://github.com/Pullusb/autoMat/archive/master.zip",
+            "description": "Some stuff to handle materials",
+            "sources": "https://github.com/Pullusb/autoMat",
+            "demo": ""
+        },
+        {
+            "name": "Reload UI",
+            "url": "https://raw.githubusercontent.com/Pullusb/reloadUI/master/reloadUI.py",
+            "description": "Reload file with your own UI",
+            "sources": "https://github.com/Pullusb/reloadUI",
+            "demo": ""
+        },
+        {
+            "name": "Dev tools",
+            "url": "https://raw.githubusercontent.com/Pullusb/devTools/master/SB_devTools.py",
+            "description": "Map shortcuts on mouse button 4 and 5 for mouse with additional buttons.",
+            "sources": "https://github.com/Pullusb/devTools",
+            "demo": "https://youtu.be/Rs4y7DeHkp8"
+        },
+        {
+            "name": "Tap Tap swap",
+            "url": "https://raw.githubusercontent.com/Pullusb/TapTapSwap/master/TapTapSwap.py",
+            "description": "Keymap shortcuts to swap some areas of blender",
+            "sources": "https://github.com/Pullusb/TapTapSwap",
+            "demo": "https://www.youtube.com/watch?v=43v5kxFkcZk"
+        },
+        {
+            "name": "Active swap",
+            "url": "https://raw.githubusercontent.com/Pullusb/SB_ActiveSwap/master/SB_Active_swap.py",
+            "description": "Iterate active object/bones/vertexgroups in selection with shortcuts",
+            "sources": "https://github.com/Pullusb/SB_ActiveSwap",
+            "demo": "https://www.youtube.com/watch?v=43v5kxFkcZk"
+        },
+        {
+            "name": "Path action",
+            "url": "https://raw.githubusercontent.com/Pullusb/SB_Path-Actions/master/SB_path_actions.py",
+            "description": "Open blend file location in OS explorer",
+            "sources": "https://github.com/Pullusb/SB_Path-Actions",
+            "demo": "https://youtu.be/DBHRc0oE7rI"
+        },
+        {
+            "name": "Curve rig",
+            "url": "https://raw.githubusercontent.com/Pullusb/curveRig/master/curveRig.py",
+            "description": "Rig active curve to a new armature (or armature in selection) with bones envelopes on curve points and handlers",
+            "sources": "https://github.com/Pullusb/curveRig",
+            "demo": "https://youtu.be/8SpkjBrYnJc"
+        },
+        {
+            "name": "Auto blueprint",
+            "url": "https://raw.githubusercontent.com/Pullusb/SB_auto-blueprint/master/AutoBlueprint.py",
+            "description": "Generate a blueprint scene of the selected(s) object(s) in one click with freestyle! (unstable)",
+            "sources": "https://github.com/Pullusb/SB_auto-blueprint",
+            "demo": ""
+        },
+        {
+            "name": "Skin parent",
+            "url": "https://raw.githubusercontent.com/Pullusb/SkinParent/master/skinParent.py",
+            "description": "Skin parent the selected objects to a bone (create armature with full weight)",
+            "sources": "https://github.com/Pullusb/SkinParent",
+            "demo": ""
+        },
+        {
+            "name": "Snippets library",
+            "url": "https://github.com/Pullusb/snippetsLibrary/archive/master.zip",
+            "description": "Personnal snippets library in text editor (with converted to external editor snippets formats)",
+            "sources": "https://github.com/Pullusb/snippetsLibrary",
+            "demo": ""
+        }
+    ],
+
+    "addons_not_converted": [
+        {
+            "name": "Samutility",
+            "url": "https://github.com/Pullusb/samutility/archive/master.zip",
+            "description": "",
+            "sources": "",
+            "demo": ""
+        },
+
+        {
+            "name": "Render layer folders",
+            "url": "https://raw.githubusercontent.com/Pullusb/renderLayerFolders/master/render_layer_folders.py",
+            "description": "",
+            "sources": "",
+            "demo": ""
+        },
+        {
+            "name": "Bone utils",
+            "url": "https://raw.githubusercontent.com/Pullusb/BoneUtils/master/boneUtils.py",
+            "description": "",
+            "sources": "",
+            "demo": ""
+        },
+        {
+            "name": "Quick rename menu",
+            "url": "https://raw.githubusercontent.com/Pullusb/quick_rename_menu/master/quick_rename_menu.py",
+            "description": "",
+            "sources": "",
+            "demo": ""
+        },
+        {
+            "name": "Scene settings",
+            "url": "https://github.com/Pullusb/SceneSettings/archive/master.zip",
+            "description": "",
+            "sources": "",
+            "demo": ""
+        }
+    ],
+    "Manual_addon_install": [
+        {
+            "name": "Brush Fill for grease pencil",
+            "url": "https://github.com/Pullusb/GP_brush_fill/archive/master.zip",
+            "description": "Grease pencil flat brush that act like a 2D brush for fill materials",
+            "sources": "https://github.com/Pullusb/GP_brush_fill",
+            "demo": ""
+        }
+    ]
+}

@@ -1,5 +1,7 @@
 lien des addons
 
+#private AutoMat -- https://github.com/Pullusb/autoMat
+
 MyKeyMouse -- https://raw.githubusercontent.com/Pullusb/MyKeyMouse/master/MyKeyMouse.py
 
 dev tools -- https://raw.githubusercontent.com/Pullusb/devTools/master/SB_devTools.py
