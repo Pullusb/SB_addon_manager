@@ -1,7 +1,16 @@
 {
     "addons": [
         {
+            "name": "Quick render",
+            "filename": "Quick_render",
+            "url": "https://github.com/Pullusb/Quick_render/archive/master.zip",
+            "description": "Render and save view/cam in one click",
+            "sources": "https://github.com/Pullusb/Quick_render",
+            "demo": "https://youtu.be/T2IIkYmQ9wQ"
+        },
+        {
             "name": "MyKeyMouse",
+            "filename": "MyKeyMouse",
             "url": "https://raw.githubusercontent.com/Pullusb/MyKeyMouse/master/MyKeyMouse.py",
             "description": "Map shortcuts on mouse button 4 and 5 for mouse with additional buttons.",
             "sources": "https://github.com/Pullusb/MyKeyMouse",
@@ -9,6 +18,7 @@
         },
         {
             "name": "Real scale references",
+            "filename": "real_scale_reference",
             "url": "https://github.com/Pullusb/real_scale_references/archive/master.zip",
             "description": "Link references models at real world scale to help modelling",
             "sources": "https://github.com/Pullusb/real_scale_references",
@@ -16,20 +26,23 @@
         },
         {
             "name": "Select by cam frame",
+            "filename": "selectByCamFrame",
             "url": "https://raw.githubusercontent.com/Pullusb/selectByCamFrame/master/selectByCamFrame.py",
             "description": "Select objects according to camera frame",
             "sources": "https://github.com/Pullusb/selectByCamFrame",
             "demo": ""
         },
         {
-            "name": "Imgs-2-video",
+            "name": "Imgs 2 video",
+            "filename": "SB_imgs2video",
             "url": "https://raw.githubusercontent.com/Pullusb/SB_imgs2video/master/SB_imgs2video.py",
             "description": "Create a video from images sequence in one click",
             "sources": "https://github.com/Pullusb/SB_imgs2video",
             "demo": "https://youtu.be/R_W3Uh3KVGM"
         },
         {
-            "name": "Auto Mat",
+            "name": "Auto Material",
+            "filename": "autoMaterial",
             "url": "https://github.com/Pullusb/autoMat/archive/master.zip",
             "description": "Some stuff to handle materials",
             "sources": "https://github.com/Pullusb/autoMat",
@@ -37,13 +50,15 @@
         },
         {
             "name": "Reload UI",
+            "filename": "reloadUI",
             "url": "https://raw.githubusercontent.com/Pullusb/reloadUI/master/reloadUI.py",
             "description": "Reload file with your own UI",
             "sources": "https://github.com/Pullusb/reloadUI",
             "demo": ""
         },
         {
-            "name": "Dev tools",
+            "name": "dev tools",
+            "filename": "SB_devTools",
             "url": "https://raw.githubusercontent.com/Pullusb/devTools/master/SB_devTools.py",
             "description": "Map shortcuts on mouse button 4 and 5 for mouse with additional buttons.",
             "sources": "https://github.com/Pullusb/devTools",
@@ -51,6 +66,7 @@
         },
         {
             "name": "Tap Tap swap",
+            "filename": "TapTapSwap",
             "url": "https://raw.githubusercontent.com/Pullusb/TapTapSwap/master/TapTapSwap.py",
             "description": "Keymap shortcuts to swap some areas of blender",
             "sources": "https://github.com/Pullusb/TapTapSwap",
@@ -58,6 +74,7 @@
         },
         {
             "name": "Active swap",
+            "filename": "SB_Active_swap",
             "url": "https://raw.githubusercontent.com/Pullusb/SB_ActiveSwap/master/SB_Active_swap.py",
             "description": "Iterate active object/bones/vertexgroups in selection with shortcuts",
             "sources": "https://github.com/Pullusb/SB_ActiveSwap",
@@ -65,6 +82,7 @@
         },
         {
             "name": "Path action",
+            "filename": "SB_path_actions",
             "url": "https://raw.githubusercontent.com/Pullusb/SB_Path-Actions/master/SB_path_actions.py",
             "description": "Open blend file location in OS explorer",
             "sources": "https://github.com/Pullusb/SB_Path-Actions",
@@ -72,6 +90,7 @@
         },
         {
             "name": "Curve rig",
+            "filename": "curveRig",
             "url": "https://raw.githubusercontent.com/Pullusb/curveRig/master/curveRig.py",
             "description": "Rig active curve to a new armature (or armature in selection) with bones envelopes on curve points and handlers",
             "sources": "https://github.com/Pullusb/curveRig",
@@ -79,6 +98,7 @@
         },
         {
             "name": "Auto blueprint",
+            "filename": "AutoBlueprint",
             "url": "https://raw.githubusercontent.com/Pullusb/SB_auto-blueprint/master/AutoBlueprint.py",
             "description": "Generate a blueprint scene of the selected(s) object(s) in one click with freestyle! (unstable)",
             "sources": "https://github.com/Pullusb/SB_auto-blueprint",
@@ -86,6 +106,7 @@
         },
         {
             "name": "Skin parent",
+            "filename": "skinParent",
             "url": "https://raw.githubusercontent.com/Pullusb/SkinParent/master/skinParent.py",
             "description": "Skin parent the selected objects to a bone (create armature with full weight)",
             "sources": "https://github.com/Pullusb/SkinParent",
@@ -93,6 +114,7 @@
         },
         {
             "name": "Snippets library",
+            "filename": "snippetsLibrary",
             "url": "https://github.com/Pullusb/snippetsLibrary/archive/master.zip",
             "description": "Personnal snippets library in text editor (with converted to external editor snippets formats)",
             "sources": "https://github.com/Pullusb/snippetsLibrary",
