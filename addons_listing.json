@@ -9,6 +9,22 @@
             "demo": "https://youtu.be/T2IIkYmQ9wQ"
         },
         {
+            "name": "GP refine strokes",
+            "filename": "GP_refine_strokes",
+            "url": "https://github.com/Pullusb/GP_refine_strokes/archive/master.zip",
+            "description": "Bunch of functions for post-drawing strokes refine",
+            "sources": "https://github.com/Pullusb/GP_refine_strokes",
+            "demo": ""
+        },
+        {
+            "name": "GP toolbox",
+            "filename": "GP_toolbox",
+            "url": "https://github.com/Pullusb/GP_toolbox/archive/master.zip",
+            "description": "Various tool to help with grease pencil",
+            "sources": "https://github.com/Pullusb/GP_toolbox",
+            "demo": ""
+        },
+        {
             "name": "MyKeyMouse",
             "filename": "MyKeyMouse",
             "url": "https://raw.githubusercontent.com/Pullusb/MyKeyMouse/master/MyKeyMouse.py",
@@ -160,6 +176,34 @@
             "demo": ""
         }
     ],
+
+    "community_addons": [
+        {
+            "name": "Blender bezier utils",
+            "filename": "blenderbezierutils",
+            "url": "https://raw.githubusercontent.com/Shriinivas/blenderbezierutils/master/blenderbezierutils.py",
+            "description": "Contains several tools and utility ops for working with Bezier curves in inkscape modal style (and to Grease pencil)",
+            "sources": "https://github.com/Shriinivas/blenderbezierutils",
+            "demo": "https://www.youtube.com/playlist?list=PLxsh4i5F_h9G6QFoPzKvBRMayz8533fSW"
+        },
+        {
+            "name": "Fcurve helper",
+            "filename": "fcurve_helper",
+            "url": "https://github.com/samytichadou/fcurve_helper/archive/master.zip",
+            "description": "Designed to help in handling the FCurves, specifically F-Modifiers",
+            "sources": "https://github.com/samytichadou/fcurve_helper",
+            "demo": "https://youtu.be/PVZHrgEGh1E?list=PL57BAmPXpXuPNcd9wgxSUyYcSpBtncnuB"
+        },
+        {
+            "name": "Rig a car",
+            "filename": "rigacar",
+            "url": "https://github.com/digicreatures/rigacar/archive/master.zip",
+            "description": "Generate quick and complete rig for standard car models\nautomate wheels animation\nanimation baking to be able to export animated models",
+            "sources": "https://github.com/digicreatures/rigacar",
+            "demo": "https://www.youtube.com/watch?v=D3XQxA_-TzY&list=PLH_mmrv8SfPFiEj93RJt3sBvHCnipI9qK"
+        }
+    ],
+
     "Manual_addon_install": [
         {
             "name": "Brush Fill for grease pencil",
