@@ -195,6 +195,22 @@
             "demo": "https://youtu.be/PVZHrgEGh1E?list=PL57BAmPXpXuPNcd9wgxSUyYcSpBtncnuB"
         },
         {
+            "name": "Bone Widget",
+            "filename": "boneWidget",
+            "url": "https://github.com/waylow/boneWidget/archive/master.zip",
+            "description": "Create super easily custom shapes for bones",
+            "sources": "https://github.com/waylow/boneWidget",
+            "demo": "https://vimeo.com/184159913"
+        },
+        {
+            "name": "Animaide",
+            "filename": "animaide",
+            "url": "https://github.com/samytichadou/fcurve_helper/archive/master.zip",
+            "description": "Advanced tools for animation curves tweaking",
+            "sources": "https://github.com/aresdevo/animaide",
+            "demo": "https://github.com/aresdevo/animaide/blob/master/readme.md"
+        },
+        {
             "name": "Rig a car",
             "filename": "rigacar",
             "url": "https://github.com/digicreatures/rigacar/archive/master.zip",
